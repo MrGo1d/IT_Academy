@@ -1,0 +1,1 @@
+bot_id = '5185169942:AAE5t1QkSwQ6Pn5pLtIrYDy_FBnNs3epTn8'

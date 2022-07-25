@@ -1,9 +1,10 @@
 import requests
 import telebot
 import time
+from config import bot_id
 
 
-bot = telebot.TeleBot('') #Enter your bot id
+bot = telebot.TeleBot(bot_id) #Enter your bot id
 
 
 def get_info_ip(ip: str = '127.0.0.1') -> str:
