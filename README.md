@@ -1,4 +1,6 @@
 # TG BOT
+:robot: TGBot
+
 It's Telegram bot for IP addresses check.
 It can find:
  - Internet provider:
